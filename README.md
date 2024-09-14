@@ -1,7 +1,7 @@
 
-# emu8086 - 2024
+# emu8086
 
-a modern and powerful replacement for emu8086 program for simulating microproccessor 8086 architecture programming
+a modern and powerful replacement for emu8086 program for simulating microprocessor 8086 architecture programming
 
 
 ## Syntax
